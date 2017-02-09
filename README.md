@@ -1,5 +1,10 @@
+# MSD-File-Newline-Delimiter.py
+
+Removes the null escape character and adds a newline delimiter 
+
 # OpenXC_trace_to_csv
 
+Converts drive trace files from JSON format to CSV format with specified variables
 
 Using PySpark version 1.6.1 and Python 2.7.12 :: Anaconda custom (x86_64)
 
