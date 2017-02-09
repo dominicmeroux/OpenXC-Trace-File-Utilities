@@ -1,4 +1,4 @@
-# MSD-File-Newline-Delimiter.py
+# MSD-File-Newline-Delimiter
 
 Removes the null escape character and adds a newline delimiter 
 
