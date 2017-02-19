@@ -1,6 +1,6 @@
 # MSD-File-Newline-Delimiter
 
-Removes the null escape character and adds a newline delimiter 
+Removes the null escape character and adds a newline delimiter. This program is designed for OpenXC trace files written to an SD card with a null delimiter (e.g. as opposed to trace files recorded by the Enabler app, which adds a newline delimiter).    
 
 # OpenXC_trace_to_csv
 
