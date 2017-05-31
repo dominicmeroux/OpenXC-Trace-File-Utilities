@@ -10,7 +10,7 @@ NOTE: Run time on a Windows 10 desktop computer with 16GB RAM was about 7 minute
 
 # Azure-Webserver-MSSQL-Data-Cleaner.cs
 
-If you set up the (OpenXC Azure Webserver)[https://github.com/openxc/openxc-azure-webserver] to read streaming data from a C5 Cellular VI, this data cleaner CSharp program reads in all data from your database and reformats the data to paste together partial messages and add a newline delimiter. This reformatted version is easier to read in data analysis software, for example as a table in Databricks PySpark. 
+If you set up the [OpenXC Azure Webserver](https://github.com/openxc/openxc-azure-webserver) to read streaming data from a C5 Cellular VI, this data cleaner CSharp program reads in all data from your database and reformats the data to paste together partial messages and add a newline delimiter. This reformatted version is easier to read in data analysis software, for example as a table in Databricks PySpark. 
 
 An example of the raw data from the MS SQL server: 
 
