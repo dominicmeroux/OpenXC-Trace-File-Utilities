@@ -1,6 +1,6 @@
 #!/bin/bash
 # Bash script for replacing null delimiter with newlines.
-# Place this file in ~/.locla/bin and ensure that the path is listed in your PATH (in ~/.bash_profile).
+# Place this file in ~/.local/bin and ensure that the path is listed in your PATH (in ~/.bash_profile).
 # Once in your PATH, you can excute this when you cd into whatever dir has your logger files.
 # You can also try calling this script from another script to process directories recursively
 
